@@ -17,7 +17,7 @@ img/                 logo vetorizado (3 versões), fotos em WebP + JPG, favicon 
 
 1. **Horário de funcionamento.** Está como exemplo (seg. a sex. 8h–18h, sáb. 8h–12h). Procure `TODO` no `index.html`: aparece no topo, no contato e no rodapé.
 2. **WhatsApp.** O número fica em `CONFIG.whatsapp` no `js/main.js` e nos links `wa.me/551532517000` do HTML.
-3. **Domínio.** Troque `img/og-image.jpg` e `img/logo-full.svg` por URLs absolutas no `og:image` e no JSON-LD do `<head>`.
+3. **Domínio.** O site está em https://equipar.vercel.app. Se for usar um domínio próprio, troque esse endereço no `canonical`, no `og:url`, no `og:image` e no JSON-LD do `<head>`.
 4. **Textos para validar com o cliente:** garantia no serviço, "orçamento antes de tudo", "atendemos carros de passeio, SUVs e utilitários" e a resposta sobre insulfilm e Contran.
 
 ## Formulário
